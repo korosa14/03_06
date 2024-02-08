@@ -30,5 +30,6 @@ int main()
 	{
 		delete Shape_[i];
 	}
+
 	return 0;
 }
